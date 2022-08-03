@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rugved</h1>
-<h3 align="center">I am a Student and a driven developer coding since the age of 15</h3>
+<h3 align="center">A jack of all trades is a master of none, but oftentimes better than a master of one.</h3>
 
 ⚡ Dedicated and versatile<br>🔭 I’m currently working on Blockchain technology<br>👯 I’m looking to collaborate on Blockchain projects<br>🌱 I’m currently learning Advanced DSA<br>💬 Ask me about C++, Web development, Cybersecurity, Networking
 
