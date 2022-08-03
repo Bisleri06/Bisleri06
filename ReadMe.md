@@ -1,6 +1,9 @@
-# 💫 About Me:
+<h1 align="center">Hi 👋, I'm Rugved</h1>
+<h3 align="center">I am a Student and a driven developer coding since the age of 15</h3>
+
 ⚡ Dedicated and versatile<br>🔭 I’m currently working on Blockchain technology<br>👯 I’m looking to collaborate on Blockchain projects<br>🌱 I’m currently learning Advanced DSA<br>💬 Ask me about C++, Web development, Cybersecurity, Networking
 
+![Visitor Count](https://profile-counter.glitch.me/DJ623/count.svg)
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/babu.bisleri__) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/rugved-borade) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/Stalk4r) 
@@ -14,9 +17,3 @@
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Bisleri06&theme=monokai&no-frame=false&no-bg=true&margin-w=4)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
----
-[![](https://visitcount.itsvg.in/api?id=Bisleri06&icon=2&color=3)](https://visitcount.itsvg.in)
