@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Rugved</h1>
 <h3 align="center">A jack of all trades is a master of none, but oftentimes better than a master of one.</h3>
 
-⚡ Dedicated and versatile<br>🔭 I’m currently working on Blockchain technology<br>👯 I’m looking to collaborate on Blockchain projects<br>🌱 I’m currently learning Advanced DSA<br>💬 Ask me about C++, Web development, Cybersecurity, Networking
+⚡ Dedicated and versatile<br>🔭 I’m currently working on Backend Technology<br>👯 I’m looking to collaborate on Backend projects<br>🌱 I’m currently learning Advanced DSA<br>💬 Ask me about C++, Web development, Cybersecurity, Networking
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
