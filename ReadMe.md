@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Rugved</h1>
 <h3 align="center">A jack of all trades is a master of none, but oftentimes better than a master of one.</h3>
 
-⚡ Dedicated and versatile<br>👯 Looking to collaborate on DevOps projects<br>🌱 Currently learning DevOps<br>💬 Ask me about C++, Python, Web development, Cybersecurity, Networking
+⚡ Dedicated and versatile<br>👯 Looking to collaborate on Systems projects<br>🌱 Currently learning Cloud Computing<br>💬 Ask me about C++, Python, Web development, Cybersecurity, Networking
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -23,10 +23,6 @@
 <a href="https://graphql.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/GraphQL-Dark.svg" alt="graphql" width="40" height="40"/> </a>
 <a href="https://mui.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/MaterialUI-Dark.svg" alt="mui" width="40" height="40"/> </a>
 </p>
-
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Bisleri06&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Bisleri06&theme=tokyonight&hide_border=false)<br/>
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Bisleri06&theme=monokai&no-frame=false&no-bg=true&margin-w=4)
