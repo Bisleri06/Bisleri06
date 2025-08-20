@@ -23,6 +23,3 @@
 <a href="https://graphql.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/GraphQL-Dark.svg" alt="graphql" width="40" height="40"/> </a>
 <a href="https://mui.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/MaterialUI-Dark.svg" alt="mui" width="40" height="40"/> </a>
 </p>
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Bisleri06&theme=monokai&no-frame=false&no-bg=true&margin-w=4)
