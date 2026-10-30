@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Rugved</h1>
 <h3 align="center">A jack of all trades is a master of none, but oftentimes better than a master of one.</h3>
 
-⚡ Dedicated and versatile<br>👯 Looking to collaborate on Systems projects<br>🌱 Currently learning CUDA and distrbuted systems<br>💬 Ask me about C++, Python, Web development, Cybersecurity, Networking, Operating systems and Parallel Processing.
+👯 Looking to collaborate on open-source projects in a wide range of domains from cybersecurity to efficient ML<br>🌱 Currently working on ML Inference and edge computer vision research
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
